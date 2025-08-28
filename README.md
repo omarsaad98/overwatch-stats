@@ -88,7 +88,7 @@ These images are generated from the analysis notebook and included to showcase s
 
 ![By tier](by_tier.png)
 
-- Controller vs PC comparison
+- Compare heroes
 
 ![Comparison](comparison.png)
 
